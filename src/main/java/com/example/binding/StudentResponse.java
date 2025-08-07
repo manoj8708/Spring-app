@@ -11,6 +11,9 @@ public class StudentResponse {
 	private boolean studentGender;
 	
 	private double studentMarks;
+
+	//fixing bug
+	private String studentAge;
 	
 
 
